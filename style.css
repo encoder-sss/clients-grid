@@ -1,0 +1,37 @@
+.clients-section{
+    padding: 50px;
+    background-color: #a8dadc;
+}
+.clients-section h2{
+    font-size: 60px;
+    color: #1d3557;
+    text-shadow: 1px 3px 1px #fb8500;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    font-family: 'Merriweather', serif;
+}
+
+.client-grid{
+    padding: 20px;
+}
+table{
+    margin: 30px;
+    background-color: #f1faee;
+    box-shadow: 0 0 4px 1px #42444462;
+}
+td{
+    border: 2px solid #8ecae685;
+    padding: 20px;
+}
+.row-1 td{
+    border-top: none;
+}
+.border-left-none{
+    border-left: none;
+}
+.row-last td{
+    border-bottom: none;
+}
+.border-right-none{
+    border-right: none;
+}
