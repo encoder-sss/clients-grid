@@ -16,7 +16,7 @@
 }
 table{
     margin: 30px;
-    background-color: #f1faee;
+    background-color: #f1faee !important;
     box-shadow: 0 0 4px 1px #42444462;
 }
 td{
